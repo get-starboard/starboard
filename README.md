@@ -1,5 +1,10 @@
 # Starboard - play many games from the PortMaster library on your Android handheld
 
+<p align="center">
+  <a href="https://github.com/get-starboard/starboard/releases/latest"><img src="https://img.shields.io/github/v/release/get-starboard/starboard?label=release&color=3b82f6" alt="Latest release"></a>
+  <a href="https://discord.gg/ewAwvtNZcV"><img src="https://img.shields.io/badge/Discord-join%20us-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://get-starboard.app/compatibility"><img src="https://img.shields.io/badge/compatibility-list-34d3e0" alt="Compatibility list"></a>
+</p>
 
 PortMaster put hundreds of free, community-ported games on Linux handhelds. Starboard brings many (but not all) of those games to Android by running them in a real Linux environment under the bonnet. Many games work great, some are playable (but some are flat-out incompatible!). [Check the current compatibility list](https://get-starboard.app/compatibility).
 
@@ -35,6 +40,7 @@ Real-world compatibility reports are hugely valuable - please make use of the in
 ## Community & Support
 
 - **Issues & feature requests:** [GitHub Issues](https://github.com/get-starboard/starboard/issues)
+- **Chat:** [Discord](https://discord.gg/ewAwvtNZcV)
 - **Website:** [get-starboard.app](https://get-starboard.app)
 
 ## Credits
